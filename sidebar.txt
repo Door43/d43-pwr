@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pwr:home|Door43 (pwr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pwr|d43-pwr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pwr/archive/master.zip|d43-pwr.zip]]
+
+**Recent Changes**
+{{changes>ns = pwr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pwr|Ethnologue data]]
+
